@@ -1,3 +1,4 @@
+
 # Denext-OS
 
 ## Why Choose Denext OS?
@@ -41,7 +42,11 @@ Unlike many traditional Linux distributions, Denext OS is designed to feel famil
 
 Denext OS was created by Imnut Technology with the goal of making Linux easier, more accessible, and more modern for users around the world. The project also represents a step forward for Thai-developed technology on the global stage.
 
-## Experience Linux in a Better Way
+## Experience Linux in a Better Way<img width="1351" height="659" alt="31944f_a883b02fed114422a5c9d2d36c48775d~mv2" src="https://github.com/user-attachments/assets/aae8b309-1015-4d3b-82c0-90024bd85e71" />
+<img width="1351" height="659" alt="31944f_da610cbe440e464aaec21a931393fea5~mv2" src="https://github.com/user-attachments/assets/593da961-bf26-4b88-8442-ec3a748d9fdd" />
+<img width="1351" height="659" alt="31944f_c2cbf07cf3c6489fb3d765b36ba76b57~mv2" src="https://github.com/user-attachments/assets/d4a1104d-74f7-491a-aa30-3c51b1fd262f" />
+<img width="1351" height="659" alt="31944f_fa9a537d3c48471d9927f8553636766c~mv2" src="https://github.com/user-attachments/assets/07dafed8-78c8-4d6f-a7c9-8845c9496d40" />
+
 
 Denext OS is not just another Linux distribution — it is an operating system focused on speed, simplicity, and real everyday usability.
 
